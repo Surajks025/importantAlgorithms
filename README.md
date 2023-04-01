@@ -8,3 +8,5 @@ algo2 = generating subsets using bits {
   In java you must use StringBuilder or StringBuffer to obtain optimum TIme and Space complexity.
   If you use normal String class then the time complexity will shoot up to O(n^2 * 2^n) and will also consume extra memory in String pool.
 }
+
+algo3 = gcd and lcm using Euclidean Algorithm with O(log(min(a,b))).
