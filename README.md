@@ -10,3 +10,5 @@ algo2 = generating subsets using bits {
 }
 
 algo3 = gcd and lcm using Euclidean Algorithm with O(log(min(a,b))).
+
+algo4 = Extra long factorials - calculation of large numbers with O(n*d) where d=no. of digits
